@@ -20,8 +20,8 @@
 Ниже пример кода из нашего приложения:
 
 ` .selector {
-\t font-family: "Awesome", Arial, sans-serif;
-\t color: red;
-\t } `
+    font-family: "Awesome", Arial, sans-serif;
+    color: red;
+    } `
 
 ```
